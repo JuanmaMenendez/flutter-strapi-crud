@@ -1,5 +1,10 @@
 ## Flutter + Strapi Fullstack CRUD Application
 
+
+`Project reference`
+
+https://www.youtube.com/watch?v=M7PvukaN6PM&ab_channel=MAHESHKARIYA
+
 `Git Clone`
 ```
 git clone https://github.com/maheshkareeya/flutter-strapi-crud.git
@@ -18,10 +23,6 @@ cd frontend
 ```
 flutter run
 ```
-`Or Open VSCode and`
-```
-Ctrl/Cmd + F5
-```
 
 `Change Directory`
 ```
@@ -37,10 +38,9 @@ npm run develop
 
 http://localhost:1337/admin
 
-`Demo Id and Password`
+`Create a new user after run the backend`
 ```
-email: maheshkareeya@gmail.com
-password: Mahesh@123
+Enter 'apis' data in the Strapi admin
 ```
 
 `Demo`
