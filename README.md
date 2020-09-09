@@ -41,6 +41,7 @@ http://localhost:1337/admin
 `Create a new user after run the backend`
 ```
 Enter 'apis' data in the Strapi admin
+Set to public the 'apis' in the Strapi admin
 ```
 
 `Demo`
